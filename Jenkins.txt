@@ -1,7 +1,7 @@
 pipeline{
 	agent any
 	tools{
-		maven 'Shubh_maven'
+		maven 'Shubh_Maven'
 	}
 	stages{
 		stage ('Build'){
